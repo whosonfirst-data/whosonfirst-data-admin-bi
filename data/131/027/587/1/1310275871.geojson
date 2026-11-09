@@ -45,7 +45,7 @@
         "wk:page":"Zanandore"
     },
     "wof:country":"BI",
-    "wof:geomhash":"2f87a19d34efe69a2f7e40b9c0b750e9",
+    "wof:geomhash":"a45327a4c58eab2ddda7ec7be2e380fc",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -71,5 +71,5 @@
     30.11404000000001,
     -3.2548
 ],
-  "geometry": {"coordinates":[30.11404000000001,-3.2548],"type":"Point"}
+  "geometry": {"coordinates":[30.11404,-3.2548],"type":"Point"}
 }

@@ -59,7 +59,7 @@
         "gn:id":423206
     },
     "wof:country":"BI",
-    "wof:geomhash":"5f6e820276986d6ea2f1a2f253dfd446",
+    "wof:geomhash":"da55e132a1e262f6aaf843c3feb7601f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -85,5 +85,5 @@
     29.62042000000001,
     -3.86037
 ],
-  "geometry": {"coordinates":[29.62042000000001,-3.86037],"type":"Point"}
+  "geometry": {"coordinates":[29.62042,-3.86037],"type":"Point"}
 }
