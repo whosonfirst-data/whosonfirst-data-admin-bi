@@ -1,0 +1,74 @@
+{
+  "id": 9895012650,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.42972,-3.78806,29.42972,-3.78806",
+    "geom:latitude":-3.78806,
+    "geom:longitude":29.42972,
+    "iso:country":"BI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 447824: name \"Burambi\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/447824"
+        },
+        {
+            "citation":"GeoNames populated place 447824: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/447824"
+        },
+        {
+            "citation":"GeoNames populated place 447824: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/447824"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108759335 (Burambi), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285,
+        102191573,
+        1108759335,
+        1108803107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":447824
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"183749e3af26cd4948d2f20b8a43d0d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759335,
+            "locality_id":9895012650,
+            "region_id":1108803107
+        }
+    ],
+    "wof:id":9895012650,
+    "wof:lastmodified":1795735169,
+    "wof:name":"Burambi",
+    "wof:parent_id":1108759335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.42972,
+    -3.78806,
+    29.42972,
+    -3.78806
+],
+  "geometry": {"coordinates":[29.42972,-3.78806],"type":"Point"}
+}

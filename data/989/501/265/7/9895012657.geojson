@@ -1,0 +1,74 @@
+{
+  "id": 9895012657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.8582,-3.9661,29.8582,-3.9661",
+    "geom:latitude":-3.9661,
+    "geom:longitude":29.8582,
+    "iso:country":"BI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13408963: name \"Ruvumu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13408963"
+        },
+        {
+            "citation":"GeoNames populated place 13408963: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13408963"
+        },
+        {
+            "citation":"GeoNames populated place 13408963: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13408963"
+        },
+        {
+            "citation":"The hierarchy of WOF county 421193019 (Gitanga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285,
+        85668731,
+        102191573,
+        421193019
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13408963
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"62bbe89c1079c9f7c25276c6dce855e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":421193019,
+            "locality_id":9895012657,
+            "region_id":85668731
+        }
+    ],
+    "wof:id":9895012657,
+    "wof:lastmodified":1795735169,
+    "wof:name":"Ruvumu",
+    "wof:parent_id":421193019,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.8582,
+    -3.9661,
+    29.8582,
+    -3.9661
+],
+  "geometry": {"coordinates":[29.8582,-3.9661],"type":"Point"}
+}

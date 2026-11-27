@@ -1,0 +1,74 @@
+{
+  "id": 9895012647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.082,-2.8095,29.082,-2.8095",
+    "geom:latitude":-2.8095,
+    "geom:longitude":29.082,
+    "iso:country":"BI",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 429956: name \"Rugombo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/429956"
+        },
+        {
+            "citation":"GeoNames populated place 429956: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/429956"
+        },
+        {
+            "citation":"GeoNames populated place 429956: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/429956"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1108759533 (Rugombo), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632285,
+        85668749,
+        102191573,
+        1108759533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":429956
+    },
+    "wof:country":"BI",
+    "wof:geomhash":"8ae8c8a8aa34ad42e6dab5b743f1b478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632285,
+            "county_id":1108759533,
+            "locality_id":9895012647,
+            "region_id":85668749
+        }
+    ],
+    "wof:id":9895012647,
+    "wof:lastmodified":1795735169,
+    "wof:name":"Rugombo",
+    "wof:parent_id":1108759533,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bi",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.082,
+    -2.8095,
+    29.082,
+    -2.8095
+],
+  "geometry": {"coordinates":[29.082,-2.8095],"type":"Point"}
+}
